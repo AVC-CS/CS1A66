@@ -1,10 +1,10 @@
 [A6-5] (https://prezi.com/p/edit/-xdwv8fik5xk/)
 
-## ![A6-5](https://nimbus-screenshots.s3.amazonaws.com/s/88ee12902cc3473cc330f92349e73408.png)
+## ![A6-5](https://nimbus-screenshots.s3.amazonaws.com/s/15bcc3037afb03301dd54debc75fba8d.png)
 
-## Open the "A65.hpp"
+## Open the "A66.hpp"
 
-> ### Complete two functions "swap()" and "swaptwo()"
+> ### Complete a function "maxmin( ) "
 
 ## You can test your program by typing the command
 
@@ -13,3 +13,5 @@
 ### Do not change any files
 
 > if you want to restore all files, just clone again with this assignment link.
+
+![Git](https://pics.me.me/thumb_git-repo-git-pull-git-merge-conflict-gilt-62023821.png)
