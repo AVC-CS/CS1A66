@@ -1,6 +1,6 @@
 [A6-5] (https://prezi.com/p/edit/-xdwv8fik5xk/)
 
-## ![A6-5](https://nimbus-screenshots.s3.amazonaws.com/s/15bcc3037afb03301dd54debc75fba8d.png)
+## ![Assignment 6-6: Lab 6-9](https://nimbus-screenshots.s3.amazonaws.com/s/15bcc3037afb03301dd54debc75fba8d.png)
 
 ## Open the "A66.hpp"
 
