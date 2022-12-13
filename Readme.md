@@ -9,6 +9,9 @@
 ## You can test your program by typing the command
 
 > make test
+> or
+> g++ main.cpp <br>
+> a.out
 
 ### Do not change any files
 
